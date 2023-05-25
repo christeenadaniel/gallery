@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+div{
+    width: 23%;
+    height: 500px;
+    /* background-color: black;
+    color: antiquewhite; */
+    /* border: rgb(238, 163, 163) 6px solid; */
+    float: left;
+    border: white;
+
+    padding-left: 10px;
+}
+img{
+    width: 100%;
+    /* 100% of the div */
+    height: 200px;
+}
